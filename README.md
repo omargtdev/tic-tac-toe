@@ -6,4 +6,4 @@ This project is from [React documentation](https://react.dev/learn/tutorial-tic-
 
 ## TODOs
 - [X] Add history
-- [ ] Deploy app
+- [X] Deploy app
